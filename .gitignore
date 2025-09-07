@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local DB and backups
+instance/*.db
+backups/
+*.sqlite3
+*.db
+
+# OS/IDE
+.DS_Store
+.vscode/
+
+# Zips/Packages
+packages/*.zip
+
+# Logs
+logs/
